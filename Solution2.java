@@ -1,4 +1,4 @@
-class Solution {
+class Solution2 {
     public int firstUniqChar(String s) {
 
         int index = -1;
